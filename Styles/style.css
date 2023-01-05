@@ -1,5 +1,5 @@
 .header{
-    height: 400px;
+    height: 500px;
     padding-left: 20px;
     background-color: #FFF8F3;
     background-image: url(/images/developer.png);
@@ -36,7 +36,7 @@ nav li {
     display: flex;
 }
 .sun{
-    width: 500px;
+    width: 100%
    
 }
 .detail{
@@ -44,18 +44,20 @@ nav li {
     padding-left: 120px;
 }
 .detail-photo{
-    padding-top: 50px;
+    padding-top: 100px;
     width: 40%;
     
 }
-/* .mr-hardy{
+.mr-hardy{
     position: absolute;
-    bottom: 180px;
-} */
-.marry{
+    bottom: 145px;
+    height: 430px;
+    left: 900px;
+}
+/* .marry{
     font-size: 30px;
     font-weight: 900;
-}
+} */
 small{
    font-weight: 100;
 }
