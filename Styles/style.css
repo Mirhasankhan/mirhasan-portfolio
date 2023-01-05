@@ -1,0 +1,80 @@
+.header{
+    height: 400px;
+    padding-left: 20px;
+    background-color: #FFF8F3;
+    background-image: url(/images/developer.png);
+    background-position: bottom left;
+    background-size: contain;
+    background-repeat: no-repeat;
+   
+}
+nav {
+    display: flex;
+    padding: 5px 100px 0px 100px;
+    justify-content: space-between;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    padding-left: 30px;
+}
+
+.make-different {
+    color: #FD6E0A;
+}
+
+.hire-button {
+    width: 90px;
+    color: white;
+    border: 1px solid #FD6E0A;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    height: 32px;
+}
+.profile-detail{
+    display: flex;
+}
+.sun{
+    width: 500px;
+   
+}
+.detail{
+    width: 50%;
+    padding-left: 120px;
+}
+.detail-photo{
+    padding-top: 50px;
+    width: 40%;
+    
+}
+/* .mr-hardy{
+    position: absolute;
+    bottom: 180px;
+} */
+.marry{
+    font-size: 30px;
+    font-weight: 900;
+}
+small{
+   font-weight: 100;
+}
+.download{
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    border: 1px solid #FD6E0A;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    height: 32px;
+}
+.contact{
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    padding: 0 15px;
+    border-radius: 5px;
+    height: 32px;
+}
